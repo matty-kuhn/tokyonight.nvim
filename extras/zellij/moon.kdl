@@ -1,0 +1,14 @@
+default {
+    bg "#222436"
+    fg "#c8d3f5"
+    black "#444a73"
+    blue  "#82aaff"
+    cyan  "#86e1fc"
+    purple  "#fca7ea"
+    magenta  "#c099ff"
+    orange  "#ff966c"
+    yellow  "#ffc777"
+    green  "#c3e88d"
+    red  "#ff757f"
+    white "#a9b1d6"
+    }
