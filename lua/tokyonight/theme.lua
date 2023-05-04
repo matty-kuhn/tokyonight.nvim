@@ -205,7 +205,7 @@ function M.setup()
 
     --- Misc
     -- TODO:
-    -- ["@comment.documentation"] = { },
+    ["@comment.documentation"] = { fg = c.blue2},
     ["@operator"] = { fg = c.blue5 }, -- For any operator: `+`, but also `->` and `*` in C.
 
     --- Punctuation
