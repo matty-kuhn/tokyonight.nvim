@@ -1,0 +1,33 @@
+# FairyFloss Alacritty Colors
+colors:
+  # Default colors
+  primary:
+    background: '0xe1e2e7'
+    foreground: '0x3760bf'
+
+  # Normal colors
+  normal:
+    black:   '0x42395d'
+    red:     '0xa8757b'
+    green:   '0xFF857F'
+    yellow:  '0xE6C000'
+    blue:    '0xAE81FF'
+    magenta: '0x716799'
+    cyan:    '0xC2ffdf'
+    white:   '0xf8f8f2'
+
+  # Bright colors
+  bright:
+    black:   '0x75507b'
+    red:     '0xffb8d1'
+    green:   '0xf1568e'
+    yellow:  '0xd5a425'
+    blue:    '0xc5a3ff'
+    magenta: '0x8077a8'
+    cyan:    '0xc2ffff'
+    white:   '0xf8f8f8f0'
+
+  # indexed_colors:
+  #   - { index: 16, color: '0xb15c00' }
+  #   - { index: 17, color: '0xc64343' }
+

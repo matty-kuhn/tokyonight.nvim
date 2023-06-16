@@ -74,12 +74,12 @@ M.fairyfloss = function()
     blue5 = "#ff81f2",
     blue6 = "#a281df",
     blue7 = "#9d80cf",
+    comment = "#c0c3d3",
     -- todo
     purple = "#9d7cd8",
     orange = "#ff9e64",
     teal = "#1abc9c",
     dark3 = "#545c7e",
-    comment = "#565f89",
     dark5 = "#737aa2",
     git = { change = "#6183bb", add = "#449dab", delete = "#914c54" },
     gitSigns = {
