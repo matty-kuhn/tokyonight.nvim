@@ -48,6 +48,49 @@ M.night = {
 }
 M.day = M.night
 
+M.fairyfloss = function()
+  local ret = {
+    none = "NONE",
+    terminal_black = "#42395d",
+    bg = "#5a5475",
+    bg_dark = "#4f4a66",
+    bg_highlight = "#6f6986",
+    red = "#a8757B",
+    red1 = "#ffd8d1",
+    green = "#FF857F",
+    green1 = "#F1568E",
+    green2 = "#f19276",
+    yellow = "#E6C000",
+    magenta = "#716799",
+    magenta2 = "#a86799",
+    cyan = "#C2ffdf",
+    fg = "#c2ffdf",
+    fg_dark = "#92bfa7",
+    fg_gutter = "#496054",
+    blue = "#AE81FF",
+    blue0 = "#c5a3ff",
+    blue1 = "#cd81ff",
+    blue2 = "#ed81ff",
+    blue5 = "#ff81f2",
+    blue6 = "#a281df",
+    blue7 = "#9d80cf",
+    -- todo
+    purple = "#9d7cd8",
+    orange = "#ff9e64",
+    teal = "#1abc9c",
+    dark3 = "#545c7e",
+    comment = "#565f89",
+    dark5 = "#737aa2",
+    git = { change = "#6183bb", add = "#449dab", delete = "#914c54" },
+    gitSigns = {
+      add = "#266d6a",
+      change = "#536c9e",
+      delete = "#b2555b",
+    },
+  }
+  return ret
+end
+
 M.moon = function()
   local ret = {
     none = "NONE",
